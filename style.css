@@ -36,7 +36,7 @@
   width: 100px;
   height: 100px;
   background: red;
-  animation-duration: 2s;
+  transition: 2s;
 }
 
 .ex-4-square {
