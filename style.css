@@ -15,7 +15,7 @@
   width: 100px;
   height: 100px;
   background: red;
-  animation-duration: 4s;
+  transition: 4s;
 }
 
 .ex-2-square:active {
@@ -36,7 +36,13 @@
   width: 100px;
   height: 100px;
   background: red;
+  animation-duration: 2s;
 }
+
+.ex-4-square {
+  opacity: 0;
+}
+
 .ex-5-square {
   margin: 20px;
   width: 60px;
