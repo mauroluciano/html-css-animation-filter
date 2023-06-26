@@ -48,7 +48,8 @@
   width: 60px;
   height: 60px;
   background: red;
-
+  transition: 2sec;
+}
   .ex-5-square:hover {
     transform: scale(2);
   }
