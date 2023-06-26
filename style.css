@@ -67,6 +67,10 @@
   filter: grayscale(1);
 }
 
+.ex-8-img {
+  transition: 3s;
+}
+
 .ex-9-img {
   margin: 50px 100px;
   width: 400px;
